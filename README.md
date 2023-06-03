@@ -57,4 +57,4 @@ npm start
 
 Contributions to the Photo Cart Capstone Project are welcome! If you have any suggestions, bug fixes, or additional features you'd like to see, feel free to open an issue or submit a pull request.
 
-We hope you enjoy using the Photo Cart Capstone Project, and it simplifies the process of managing and ordering photos for both photographers and customers. Happy customizing and preserving your precious memories!
+I hope you enjoy using the Photo Cart Capstone Project, and it simplifies the process of managing and ordering photos for both photographers and customers. Happy customizing and preserving your precious memories!
